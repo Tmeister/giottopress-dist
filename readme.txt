@@ -38,5 +38,15 @@ GiottoPress is a lightweight, faster, clean, super flexible and Bulma based resp
 * Default WP customizer settings are not removed
 * Load admin scripts only on the welcome page
 
+= 1.0.2 - November 11 2017 =
+* Remove Theme URL
+* Remove search-form from add_theme_support( 'html5' )
+* Add value to search text field
+* Add Escaping on template-tags.php
+* Fix Footer credits just one link
+* Fix Copyright on readme.txt
+* Fix prefix on enqueue files
+* Fix translation label on metaboxes
+
 == Credits ==
-*Based on Underscores http://underscores.me/, (C) 2012-2017 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
+* Based on Underscores http://underscores.me/, (C) 2012-2017 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
